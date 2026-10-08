@@ -34,6 +34,7 @@ Le programme effectue également une recherche du produit ayant l'identifiant `2
 Cette capture montre la console Web de la base de données H2.
 
 La requête suivante permet de vérifier directement les données enregistrées :
-
+![Console H2](images/console-h2.png)
 ```sql
 SELECT * FROM PRODUIT;
+
